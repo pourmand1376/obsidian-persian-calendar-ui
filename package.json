@@ -1,6 +1,6 @@
 {
   "name": "obsidian-jalali-calendar-ui",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "Calendar UI that powers obsidian-jalali-calendar-plugin",
   "author": "Amir Pourmand",
   "main": "dist/index.js",

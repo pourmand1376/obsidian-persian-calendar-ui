@@ -1,6 +1,6 @@
 {
   "name": "obsidian-persian-calendar-ui",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Calendar UI that powers obsidian-persian-calendar-plugin",
   "author": "Amir Pourmand",
   "main": "dist/index.js",
